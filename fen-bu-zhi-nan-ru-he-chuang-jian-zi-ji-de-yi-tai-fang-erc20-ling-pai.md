@@ -2,8 +2,6 @@
 
 {% embed url="https://blockonomi.com/create-ethereum-token/" %}
 
-
-
 ## 分步指南：如何创建自己的以太坊ERC-20令牌
 
 有关如何在以太坊网络上创建和部署自己的ERC-20令牌的完整教程-您所需的所有代码
