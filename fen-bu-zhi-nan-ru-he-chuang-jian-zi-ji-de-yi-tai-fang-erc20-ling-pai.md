@@ -1,4 +1,4 @@
-# 【ICO】分步指南：如何创建自己的以太坊ERC-20令牌
+# 分步指南：如何创建自己的以太坊ERC-20令牌
 
 {% embed url="https://blockonomi.com/create-ethereum-token/" %}
 

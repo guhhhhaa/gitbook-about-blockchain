@@ -1,4 +1,4 @@
-# 【BTC】BTC相关信息
+# BTC相关信息
 
 ## Guhhhhaa 对 BTC 的分析：
 

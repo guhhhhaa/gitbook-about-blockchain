@@ -1,4 +1,4 @@
-# 【ICO】发币代码
+# 【ICO】如何在15分钟内创建你的加密货币
 
 《 如何在15分钟内创建你的加密货币》[**https://mp.weixin.qq.com/s?\_\_biz=MzI3NzQ2MjU4NA==&mid=2247483998&idx=1&sn=71602644a8f66fdb3b3142f0fae08b3c&chksm=eb64a909dc13201fb271338fab012ecea14a888bf81ce2bc7a0ab527eaa31b39e3391f1243c1&scene=21\#wechat\_redirect**](https://mp.weixin.qq.com/s?__biz=MzI3NzQ2MjU4NA==&mid=2247483998&idx=1&sn=71602644a8f66fdb3b3142f0fae08b3c&chksm=eb64a909dc13201fb271338fab012ecea14a888bf81ce2bc7a0ab527eaa31b39e3391f1243c1&scene=21#wechat_redirect)  
 
