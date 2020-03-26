@@ -28,7 +28,7 @@ contract BFM_Token_ERC20 is EIP20Interface {
     uint8 public decimals;                //How many decimals to show.
     string public symbol;                 //An identifier: eg SBX
 
-    function EIP20(
+    function BFM_Token_ERC20(
         uint256 _initialAmount,
         string _tokenName,
         uint8 _decimalUnits,
