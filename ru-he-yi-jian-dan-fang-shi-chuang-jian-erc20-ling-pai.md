@@ -34,7 +34,7 @@
 
 简而言之，ERC20标准定义了一组由所有ERC20代币实现的功能，以便与其他合同，钱包或市场进行集成。这套功能相当简短和基本。
 
-```text
+```java
 function totalSupply() public view returns (uint256);
 function balanceOf(address tokenOwner) public view returns (uint);
 function allowance(address tokenOwner, address spender)
@@ -48,7 +48,7 @@ ERC20功能允许外部用户（例如，加密钱包应用程序）找出用户
 
 智能合约定义了两个明确定义的事件：
 
-```text
+```java
 event Approval(address indexed tokenOwner, address indexed spender,
  uint tokens);
 event Transfer(address indexed from, address indexed to,
@@ -59,7 +59,7 @@ event Transfer(address indexed from, address indexed to,
 
 除了标准的ERC20功能外，许多ERC20令牌还具有其他字段，并且即使不是书面形式，也实际上已成为ERC20标准的实际部分。以下是此类字段的一些示例。
 
-```text
+```java
 string public constant name;
 string public constant symbol;
 uint8 public constant decimals;
@@ -81,7 +81,7 @@ uint8 public constant decimals;
 
 首先，我们需要定义两个映射对象。这是关联或键/值数组的Solidity概念：
 
-```text
+```java
 mapping(address => uint256) balances;
 mapping(address => mapping (address => uint256)) allowed;
 ```
@@ -106,7 +106,7 @@ mapping(address => mapping (address => uint256)) allowed;
 
 为了满足我们的ECR20教程的需求，我们将使用最简单的方法：在合同创建时设置令牌的总量，并首先将所有令牌分配给“合同所有者”，即部署智能合同的帐户：
 
-```text
+```java
 uint256 totalSupply_;
 constructor(uint256 total) public {
    totalSupply_ = total;
@@ -122,7 +122,7 @@ constructor(uint256 total) public {
 
 ### 获取总代币供应 <a id="get-total-token-supply"></a>
 
-```text
+```java
 function totalSupply() public view returns (uint256) {
   return totalSupply_;
 }
@@ -132,7 +132,7 @@ function totalSupply() public view returns (uint256) {
 
 ### 获取所有者的代币余额 <a id="get-token-balance-of-owner"></a>
 
-```text
+```java
 function balanceOf(address tokenOwner) public view returns (uint) {
   return balances[tokenOwner];
 }
@@ -142,7 +142,7 @@ function balanceOf(address tokenOwner) public view returns (uint) {
 
 ### 将令牌转移到另一个帐户 <a id="transfer-tokens-to-another-account"></a>
 
-```text
+```java
 function transfer(address receiver,
                  uint numTokens) public returns (bool) {
   require(numTokens <= balances[msg.sender]);
@@ -163,7 +163,7 @@ Solidity断言的方式为`require`。在这种情况下，转帐帐户有足够
 
 此功能最常用于令牌市场场景中。
 
-```text
+```java
 function approve(address delegate,
                 uint numTokens) public returns (bool) {
   allowed[msg.sender][delegate] = numTokens;
@@ -193,7 +193,7 @@ function allowance(address owner,
 
 所述`transferFrom`函数是对端`approve`功能，这是我们前面所讨论的。它允许批准撤回的代表将所有者资金转移到第三方帐户。
 
-```text
+```java
 function transferFrom(address owner, address buyer,
                      uint numTokens) public returns (bool) {
   require(numTokens <= balances[owner]);
