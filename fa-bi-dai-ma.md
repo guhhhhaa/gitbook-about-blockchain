@@ -1,5 +1,7 @@
 # 发币代码
 
+BFM\_Token\_ERC20.sol
+
 ```java
 /*
 Implements EIP20 token standard: https://github.com/ethereum/EIPs/blob/master/EIPS/eip-20.md
