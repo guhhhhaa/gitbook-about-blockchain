@@ -1,10 +1,8 @@
-# compound & cDai
+# 我要发多少币？10^111
+
+10^111=1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
 
 
 
-{% embed url="https://defipulse.com/blog/what-is-cdai/" %}
-
-{% embed url="https://defipulse.com/" %}
-
-
+![](.gitbook/assets/ping-mu-kuai-zhao-20200326-shang-wu-9.32.22.png)
 
