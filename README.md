@@ -1,5 +1,10 @@
 # 如何发币
 
+《 如何在15分钟内创建你的加密货币》[**https://mp.weixin.qq.com/s?\_\_biz=MzI3NzQ2MjU4NA==&mid=2247483998&idx=1&sn=71602644a8f66fdb3b3142f0fae08b3c&chksm=eb64a909dc13201fb271338fab012ecea14a888bf81ce2bc7a0ab527eaa31b39e3391f1243c1&scene=21\#wechat\_redirect**](https://mp.weixin.qq.com/s?__biz=MzI3NzQ2MjU4NA==&mid=2247483998&idx=1&sn=71602644a8f66fdb3b3142f0fae08b3c&chksm=eb64a909dc13201fb271338fab012ecea14a888bf81ce2bc7a0ab527eaa31b39e3391f1243c1&scene=21#wechat_redirect)  
+
+
+\*\*\*\*
+
 **来来来，一起动手。在测试网络发个币。然后还能转到其它钱包，更让人惊喜的是：我们可以在etherscan上查到自己发的币，以及转出记录。**
 
 **首先**打开 https://remix.ethereum.org/，我们使用 remix 网站的集成开发环境，来编写属于自己的智能合约，同时remix网站可以将合约部署到eth网络上。
