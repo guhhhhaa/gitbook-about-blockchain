@@ -4,9 +4,6 @@
 
 ## 如何以简单方式创建ERC20令牌
 
-![&#x5409;&#x62C9;&#x5FB7;&#xB7;&#x6D77;&#x83AB;&#x592B;&#xFF08;Gilad Haimov&#xFF09;](https://bs-uploads.toptal.io/blackfish-uploads/talent/profile/picture_file/picture/216620/retina_60x60_large_7a255cdc7925b44055b8e809507f88de-3d0dbf7e035cdcad0d4688d42d0b0211.jpg)[吉拉德·海莫夫（GILAD HAIMOV）](https://www.toptal.com/resume/gilad-haimov)Gilad在开发移动，服务器端和通信系统方面拥有19年以上的Android经验。**28** 股
-
-* * * * 
 本文的目的是演示如何在尽可能短的时间内创建ERC20令牌。
 
 让我们从基础开始：_什么是ERC20令牌？_
