@@ -1,4 +1,4 @@
-# 如何以简单方式创建ERC20令牌
+# 【ICO】如何以简单方式创建ERC20令牌
 
 ## [https://www.toptal.com/ethereum/create-erc20-token-tutorial](https://www.toptal.com/ethereum/create-erc20-token-tutorial)
 

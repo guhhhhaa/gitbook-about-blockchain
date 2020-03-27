@@ -1,5 +1,9 @@
 # 【ICO】在不到一分钟的时间内创建ERC20令牌
 
+{% embed url="https://medium.com/@vittominacori/create-an-erc20-token-in-less-than-a-minute-2a8751c4d6f4" %}
+
+{% embed url="https://vittominacori.github.io/erc20-generator/" %}
+
 ## 在不到一分钟的时间内创建ERC20令牌
 
 ### 免费为标准，上限，最小，可刻录，可支付，ERC20令牌轻松部署智能合约。
