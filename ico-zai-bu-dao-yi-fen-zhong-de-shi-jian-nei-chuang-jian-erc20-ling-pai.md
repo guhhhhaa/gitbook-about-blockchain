@@ -6,7 +6,7 @@
 
 [![&#x7EF4;&#x7EB3;&#x6258;](https://miro.medium.com/fit/c/96/96/1*Wy5OZ2xy6-z8hpbV6giF0w.jpeg)](https://medium.com/@vittominacori?source=post_page-----2a8751c4d6f4----------------------)[维纳托](https://medium.com/@vittominacori?source=post_page-----2a8751c4d6f4----------------------)跟随[2018年12月10日](https://medium.com/@vittominacori/create-an-erc20-token-in-less-than-a-minute-2a8751c4d6f4?source=post_page-----2a8751c4d6f4----------------------) · 5 分钟阅读
 
-尝试生成器：[https](https://vittominacori.github.io/erc20-generator/) : [//vittominacori.github.io/erc20-generator](https://vittominacori.github.io/erc20-generator/)![](https://miro.medium.com/max/60/1*sPqrwRPa58HIbBjEu1ibcw.png?q=20)![](https://miro.medium.com/max/1380/1*sPqrwRPa58HIbBjEu1ibcw.png)
+## 尝试生成器：[https](https://vittominacori.github.io/erc20-generator/) : [//vittominacori.github.io/erc20-generator](https://vittominacori.github.io/erc20-generator/) ![](https://miro.medium.com/max/1380/1*sPqrwRPa58HIbBjEu1ibcw.png)
 
 ## ICO <a id="2117"></a>
 
