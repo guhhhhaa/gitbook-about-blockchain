@@ -32,6 +32,10 @@
 
 ## 一般如何部署ERC20令牌？ <a id="0253"></a>
 
+{% embed url="https://vittominacori.github.io/erc20-generator/" %}
+
+{% embed url="https://medium.com/@vittominacori/create-an-erc20-token-in-less-than-a-minute-2a8751c4d6f4" %}
+
 有许多库和工具可提供诸如ERC20和ERC721之类的标准实现，您可以按原样部署或扩展以满足您的需求，还有Solidity组件来构建自定义合同和更复杂的分散式系统。  
 但是您需要学习Solidity，需要设置自己的环境和代码，并使用以太坊节点部署令牌。  
 他们有很多技能和配置。
