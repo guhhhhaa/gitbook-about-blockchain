@@ -1,4 +1,4 @@
-# 【DeFi】
+# 【DeFi】DeFi\(s\)
 
 {% embed url="https://app.zerion.io/" %}
 
