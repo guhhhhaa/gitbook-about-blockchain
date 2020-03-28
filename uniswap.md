@@ -6,6 +6,8 @@
 
 {% embed url="https://uniswap.exchange/swap" %}
 
+{% embed url="https://uniswap.org/whitepaper.pdf" %}
+
 
 
 
